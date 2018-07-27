@@ -1,0 +1,4 @@
+<!--pages/login/login.wxml-->
+<view class='container'>
+    <text>账户</text>
+</view>
